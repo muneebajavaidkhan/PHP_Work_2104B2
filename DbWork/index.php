@@ -75,10 +75,11 @@
 
     
 
-    <button type="submit" class="btn btn-primary" name = "ins">Submit</button>
+    <button type="submit" class="btn btn-primary" name = "ins" onclick = "fun()">Submit</button>
   </form>
   
 </div>
 
+    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 <?php include 'footer.php'; ?>
