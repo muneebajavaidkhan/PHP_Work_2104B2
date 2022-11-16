@@ -63,7 +63,7 @@ if ($rowCount > 0) {//7>0
             <td><?= $data['Gender']?></td>
             <td><?= $data['City']?></td>
             <td><?= $data['Courses']?></td>
-            <td>   <a href="" class = "btn btn-primary">Edit</a>  </td>
+            <td>   <a href="Edit.php?id=<?= $data['StdId'] ?>" class = "btn btn-primary">Edit</a>  </td>
             <td>   <a href=""  class = "btn btn-danger">Delete</a>  </td>     
     <?php
         echo '</tr>';

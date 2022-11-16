@@ -80,6 +80,5 @@
   
 </div>
 
-    <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
 
 <?php include 'footer.php'; ?>
