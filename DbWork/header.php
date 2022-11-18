@@ -19,10 +19,10 @@
   <div class="collapse navbar-collapse" id="collapsibleNavbar">
     <ul class="navbar-nav">
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="index.php">Insert Data</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Link</a>
+        <a class="nav-link" href="ViewData.php">View Data</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Link</a>
